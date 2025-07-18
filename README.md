@@ -11,3 +11,8 @@ U-Net-based semantic segmentation of Sentinel-2 satellite images for LULC classi
 - Google Earth Engine
 - U-Net architecture
 - Satellite image segmentation
+
+### 🛰️ Sample Output (Hyderabad AOI - Land Cover Segmentation)
+
+![Segmented Map](outputs/segmented_image.png)
+
