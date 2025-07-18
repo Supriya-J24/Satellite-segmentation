@@ -14,5 +14,5 @@ U-Net-based semantic segmentation of Sentinel-2 satellite images for LULC classi
 
 ### 🛰️ Sample Output (Hyderabad AOI - Land Cover Segmentation)
 
-![Segmented Map](outputs/segmented_image.png)
+![Segmented Map](outputs/Segmented_image.png)
 
